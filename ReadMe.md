@@ -9,7 +9,3 @@
 * 密码修改功能。用户可以修改自己账号的密码。
 * 忘记密码功能。用户注册的时候，会登记一个个人问题，并自己给出答案，使用忘记密码时，只需要记得自己的账号和问题的答案，即可修改自己的密码。
 * 好友消息群发功能。在逢年过节时，如果想要向所有好友群发消息，则可以使用这个功能，实现好友消息群发的功能。
-程序框架图：
-![frame](https://github.com/songjinduo/The-project-of-NetWork/raw/master/image/frame.png)
-程序流程图：
-![frame](https://github.com/songjinduo/The-project-of-NetWork/raw/master/image/process.png)
